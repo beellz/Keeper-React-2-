@@ -1,6 +1,5 @@
 {
   "homepage": "https://beellz.github.io/Keeper-React-2-",
-
   "name": "keeper-app-part-2-starting",
   "version": "1.0.0",
   "description": "",
@@ -17,7 +16,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy" : "gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
